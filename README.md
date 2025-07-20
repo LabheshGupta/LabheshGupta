@@ -2,24 +2,22 @@
   <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=30&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=70&lines=Hello%2C+I'm+7bt+%F0%9F%91%8B;Website+Developer;UI%2FUX+Enthusiast;AI+Explorer" alt="Animated typing header" />
 </h1>
 
----
+<div align="center">
+  <hr style="height:4px;border:none;background:linear-gradient(90deg, #0d1117, #FF61D2, #00FFFF, #FF61D2, #0d1117);border-radius:10px;margin:30px 0;">
+</div>
+
 <div align="center">
   <h2>📊 My GitHub Stats</h2>
   
-  <a href="https://github.com/labheshgupta">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=labheshgupta&show_icons=true&theme=dark&bg_color=0d1117&title_color=FFD700&icon_color=00FFFF&hide_border=true" />
-  </a>
-  <a href="https://github.com/labheshgupta">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labheshgupta&layout=compact&theme=dark&bg_color=0d1117&title_color=FFD700&hide_border=true&langs_count=8" />
-  </a>
-  
-  <!-- GitHub streak stats -->
-  <a href="https://github.com/labheshgupta">
-    <img width="80%" src="https://streak-stats.demolab.com?user=labheshgupta&theme=dark&background=0d1117&border=444&stroke=00FFFF&ring=FFD700&fire=FF7F50&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=FFD700&sideLabels=00FFFF&dates=ADB5BD" />
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=labheshgupta&show_icons=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=FF61D2&icon_color=00FFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labheshgupta&layout=compact&theme=radical&bg_color=0d1117&title_color=FF61D2" />
+  <br><br>
+  <img width="80%" src="https://streak-stats.demolab.com?user=labheshgupta&theme=radical&background=0d1117&ring=FF61D2&fire=FF61D2&currStreakLabel=FF61D2" />
 </div>
 
----
+<div align="center">
+  <hr style="height:4px;border:none;background:linear-gradient(90deg, #0d1117, #FF61D2, #00FFFF, #FF61D2, #0d1117);border-radius:10px;margin:30px 0;">
+</div>
 
 <!-- Tech Stack Section with cards -->
 <h2 align="center">🚀 Tech Stack & Tools</h2>
@@ -33,7 +31,9 @@
   
 </div>
 
----
+<div align="center">
+  <hr style="height:4px;border:none;background:linear-gradient(90deg, #0d1117, #FF61D2, #00FFFF, #FF61D2, #0d1117);border-radius:10px;margin:30px 0;">
+</div>
 
 <!-- Currently Learning Section -->
 <h2 align="center">🌱 Currently Exploring</h2>
@@ -47,20 +47,24 @@
   </a>
 </div>
 
----
+<div align="center">
+  <hr style="height:4px;border:none;background:linear-gradient(90deg, #0d1117, #FF61D2, #00FFFF, #FF61D2, #0d1117);border-radius:10px;margin:30px 0;">
+</div>
 
 <!-- Portfolio Link with Animation -->
 <h2 align="center">🌐 My Portfolio</h2>
 <p align="center">
   <a href="https://7bt.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-FF61D2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
----
+<div align="center">
+  <hr style="height:4px;border:none;background:linear-gradient(90deg, #0d1117, #FF61D2, #00FFFF, #FF61D2, #0d1117);border-radius:10px;margin:30px 0;">
+</div>
 
 <!-- Visitor Counter -->
 <h2 align="center">👀 Visitor Count</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=labheshgupta&label=Profile+Views&color=00FFFF&style=flat" alt="Visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=labheshgupta&label=Profile+Views&color=FF61D2&style=flat" alt="Visitor counter" />
 </p>
