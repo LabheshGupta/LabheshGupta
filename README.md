@@ -40,7 +40,6 @@
 <div align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -62,6 +61,12 @@
 <div align="center">
   <hr style="height:4px;border:none;background:linear-gradient(90deg, #0d1117, #FF61D2, #00FFFF, #FF61D2, #0d1117);border-radius:10px;margin:30px 0;">
 </div>
+
+<!-- snake -->
+<p align="center">
+    <img src="images/github-user-contribution-dark.svg#gh-dark-mode-only" width="800">
+    <img src="images/github-user-contribution-light.svg#gh-light-mode-only" width="800">
+</p>
 
 <!-- Visitor Counter -->
 <h2 align="center">👀 Visitor Count</h2>
