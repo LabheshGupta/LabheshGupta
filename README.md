@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=30&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=70&lines=Hello%2C+I'm+7bt+%F0%9F%91%8B;Website+Developer;UI%2FUX+Enthusiast;AI+Explorer" alt="Animated typing header" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=30&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=70&lines=Hello%2C+I'm+Labhesh Gupta+%F0%9F%91%8B;Website+Developer;UI%2FUX+Enthusiast;AI+Explorer" alt="Animated typing header" />
 </div>
 
 ---
