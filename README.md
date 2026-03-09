@@ -70,7 +70,6 @@ Projects and experiments in design, code, and interactive interfaces.
 <img src="images/html.png" height="50">&nbsp;&nbsp;
 <img src="images/css.png" height="50">&nbsp;&nbsp;
 <img src="images/js.png" height="50">&nbsp;&nbsp;
-<img src="images/react.png" height="50">&nbsp;&nbsp;
 <img src="images/wordpress.png" height="50">
 
 </div>
@@ -81,6 +80,7 @@ Projects and experiments in design, code, and interactive interfaces.
 
 ### Currently Learning
 
+<img src="images/react.png" height="50">&nbsp;&nbsp;
 <img src="images/figma.png" height="50">&nbsp;&nbsp;
 <img src="images/framer.png" height="50">
 
